@@ -1,0 +1,19 @@
+Algorithm,Problem,Time,Expansions ,Goal Tests,New Nodes,Plan length,Time
+astar_searchh_ignore_preconditions,P1,0.0367,41,43,170,6,0.0367
+astar_searchh_ignore_preconditions,P2,14.6,1494,1496,13708,9,14.6
+astar_searchh_ignore_preconditions,P3,101.92,5118,5120,45650,12,101.92
+astar_searchh_pg_levelsum,P1,1.446,11,13,50,6,1.446
+astar_searchh_pg_levelsum,P2,142.18,86,88,841,9,142.18
+astar_searchh_pg_levelsum,P3,997.174,405,407,3724,12,997.174
+breadth_first_search,P1,0.047,43,56,180,6,0.047
+breadth_first_search,P2,15.56,3343,4609,30509,9,15.56
+breadth_first_search,P3,114.44,14663,18098,129631,12,114.44
+depth_first_graph_search,P1,0.009,12,13,48,12,0.009
+depth_first_graph_search,P2,3.5,582,583,5211,575,3.5
+depth_first_graph_search,P3,4.05,627,628,5176,596,4.05
+greedy_best_first_graph_search,P1,0.0057,7,9,28,6,0.0057
+greedy_best_first_graph_search,P2,2.2758,385,387,3512,19,2.2758
+greedy_best_first_graph_search,P3,92.998,4198,4200,37094,27,92.998
+uniform_cost_search,P1,0.5,55,57,224,6,0.5
+uniform_cost_search,P2,48.62,4823,4825,43774,9,48.62
+uniform_cost_search,P3,434.17,18235,18237,159716,12,434.17
